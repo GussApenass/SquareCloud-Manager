@@ -1,0 +1,77 @@
+from .emoji_manager import emoji as _emoji_runtime
+from typing import cast
+
+class EmojiTypes:
+    application: str
+    back: str
+    backback: str
+    bolt: str
+    check: str
+    clock: str
+    cluster: str
+    connection: str
+    cpu: str
+    create: str
+    credencial: str
+    dados_config: str
+    database: str
+    date: str
+    delete: str
+    dev: str
+    diskcard: str
+    download: str
+    edit_file: str
+    email: str
+    enterprise: str
+    eye: str
+    eye_closed: str
+    fast: str
+    file: str
+    files: str
+    hobby: str
+    home: str
+    id: str
+    img: str
+    info: str
+    link: str
+    loading: str
+    memory_ram: str
+    menu: str
+    menu2: str
+    mongodb: str
+    move: str
+    mysql: str
+    network: str
+    next: str
+    nextnext: str
+    notebook: str
+    offline: str
+    online: str
+    password: str
+    pause: str
+    pencil: str
+    plan_default: str
+    play: str
+    postgres: str
+    pro: str
+    redis: str
+    restart: str
+    restore: str
+    rocket: str
+    search: str
+    security: str
+    snapshot: str
+    SquareCloud: str
+    standard: str
+    star: str
+    tag: str
+    team: str
+    terminal: str
+    type: str
+    upload: str
+    user: str
+    warn: str
+    web: str
+    xred: str
+
+emoji = cast(EmojiTypes, _emoji_runtime)
