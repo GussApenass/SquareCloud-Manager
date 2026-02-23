@@ -11,6 +11,7 @@
 ## 📌 Sobre o Projeto
 
 O **Square Cloud Manager** é um bot em **Python** que permite gerenciar suas aplicações hospedadas na [Square Cloud](https://squarecloud.app/pt-br) diretamente pelo Discord.
+**Este projeto não É OFICIAL da Square Cloud. Este projeto é desenvolvido da comunidade para a comunidade.**
 
 Com ele você pode:
 
@@ -119,6 +120,8 @@ Série:
 [youtube.com/watch?v=aW4mwveHyjw&list=PL9tY_tDo_Q0AmNx52XD8O2gpEuNtiaxC6](https://www.youtube.com/watch?v=aW4mwveHyjw&list=PL9tY_tDo_Q0AmNx52XD8O2gpEuNtiaxC6)
 
 ---
+
+***Made with ❤️ by GussApenass***
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e5128,100:4e9f3d&height=140&section=footer" />
