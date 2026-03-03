@@ -1,8 +1,5 @@
 discord.py
-
 aiohttp
-
 pydantic
-
 pydantic_settings
-logging # discord.py j· baixa ela automaticamente, mas È bom deixar.
+logging # discord.py j√° baixa ela automaticamente, mas √© bom deixar.
